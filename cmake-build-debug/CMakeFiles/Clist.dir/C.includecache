@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/XX/Desktop/CCC/Clist/InsSort.cpp
+header.h
+C:/Users/XX/Desktop/CCC/Clist/header.h
+
+C:/Users/XX/Desktop/CCC/Clist/header.h
+
+C:/Users/XX/Desktop/CCC/Clist/main.c
+stdio.h
+-
+stddef.h
+-
+stdlib.h
+-
+math.h
+-
+string.h
+-
+time.h
+-
+InsSort.cpp
+C:/Users/XX/Desktop/CCC/Clist/InsSort.cpp
+

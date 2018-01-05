@@ -1,0 +1,11 @@
+"D:\Clion\CLion 2017.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\XX\Desktop\CCC\Clist
+-- The C compiler identification is GNU 7.2.0
+-- Check for working C compiler: D:/MinGW/mingw64/bin/gcc.exe
+-- Check for working C compiler: D:/MinGW/mingw64/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/XX/Desktop/CCC/Clist/cmake-build-debug
